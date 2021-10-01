@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a passionate software developer from India.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
